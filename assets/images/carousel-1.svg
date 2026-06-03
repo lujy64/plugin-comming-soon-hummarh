@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="Portrait placeholder">
+  <defs>
+    <linearGradient id="c1-bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f5f5f5"/>
+      <stop offset="1" stop-color="#2c2c2c"/>
+    </linearGradient>
+    <clipPath id="c1-mask">
+      <rect width="640" height="430" rx="32"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#c1-mask)">
+    <rect width="640" height="430" fill="url(#c1-bg)"/>
+    <rect x="430" y="0" width="210" height="430" fill="#1f1f1f" opacity=".48"/>
+    <rect x="0" y="310" width="640" height="120" fill="#111" opacity=".24"/>
+    <g opacity=".45" fill="#d8d8d8">
+      <rect x="24" y="34" width="96" height="190" rx="8"/>
+      <rect x="468" y="36" width="76" height="214" rx="8"/>
+      <rect x="552" y="54" width="42" height="180" rx="8"/>
+    </g>
+    <g transform="translate(198 42)">
+      <path d="M120 28c58 0 102 49 102 119v80H20v-80C20 77 62 28 120 28Z" fill="#d7d7d7"/>
+      <circle cx="120" cy="128" r="70" fill="#efefef"/>
+      <path d="M61 108c5-52 40-83 92-72 44 9 69 51 58 105-24-8-50-26-67-54-21 30-51 44-83 51Z" fill="#313131"/>
+      <path d="M72 230c24-24 72-35 121-20 36 11 61 33 74 69v84H9v-82c14-30 37-48 63-51Z" fill="#3c3c3c"/>
+      <path d="M83 190c18 20 50 20 68 0v38c-18 18-50 18-68 0Z" fill="#dedede"/>
+      <g stroke="#f4f4f4" stroke-width="10" stroke-linecap="round" fill="none">
+        <path d="M72 310c26-26 50-44 76-57"/>
+        <path d="M178 255c23 11 44 30 63 55"/>
+      </g>
+    </g>
+  </g>
+</svg>

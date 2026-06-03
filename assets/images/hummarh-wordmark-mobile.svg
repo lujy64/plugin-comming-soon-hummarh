@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 178" role="img" aria-label="Hummarh">
+  <rect width="220" height="178" fill="none"/>
+  <g fill="#d5ed18" font-family="Montserrat, Arial, sans-serif" font-weight="500" font-size="58">
+    <text x="0" y="54">HU</text>
+    <text x="0" y="107">MMA</text>
+    <text x="96" y="160">RH</text>
+  </g>
+  <path d="M150 118h58m-58 25h58m-58 25h58" fill="none" stroke="#d5ed18" stroke-width="8" stroke-linecap="square"/>
+</svg>

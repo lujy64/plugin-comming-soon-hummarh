@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Hummarh badge">
+  <defs>
+    <path id="badge-ring" d="M80 22a58 58 0 1 1 0 116 58 58 0 0 1 0-116Z"/>
+  </defs>
+  <rect width="160" height="160" rx="80" fill="none"/>
+  <circle cx="80" cy="80" r="48" fill="none" stroke="#687300" stroke-width="2"/>
+  <text fill="#8f9d05" font-family="Montserrat, Arial, sans-serif" font-size="10" font-weight="600">
+    <textPath href="#badge-ring" startOffset="0">HUMMARH - HUMMARH - HUMMARH - HUMMARH -</textPath>
+  </text>
+  <g fill="none" stroke="#d5ed18" stroke-width="5" stroke-linecap="square">
+    <path d="M57 68v24M88 68v24M57 80h31"/>
+    <path d="M94 68h20c8 0 13 5 13 12s-5 12-13 12H94"/>
+    <path d="M114 92l17 18"/>
+  </g>
+</svg>

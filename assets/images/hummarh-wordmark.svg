@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 120" role="img" aria-label="Hummarh">
+  <rect width="680" height="120" fill="none"/>
+  <g fill="#d5ed18" font-family="Montserrat, Arial, sans-serif" font-weight="500">
+    <text x="0" y="87" font-size="76">HUMMA</text>
+    <circle cx="438" cy="58" r="5"/>
+    <text x="462" y="87" font-size="76">RH</text>
+  </g>
+  <path d="M574 28h72m-72 32h72m-72 32h72" fill="none" stroke="#d5ed18" stroke-width="10" stroke-linecap="square"/>
+</svg>

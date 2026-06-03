@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Hummarh mark">
+  <rect width="120" height="120" fill="none"/>
+  <g fill="#252525">
+    <circle cx="60" cy="18" r="9"/>
+    <circle cx="60" cy="102" r="9"/>
+    <circle cx="18" cy="60" r="9"/>
+    <circle cx="102" cy="60" r="9"/>
+    <circle cx="30" cy="30" r="7"/>
+    <circle cx="90" cy="30" r="7"/>
+    <circle cx="30" cy="90" r="7"/>
+    <circle cx="90" cy="90" r="7"/>
+  </g>
+  <circle cx="60" cy="60" r="28" fill="none" stroke="#252525" stroke-width="8"/>
+</svg>
