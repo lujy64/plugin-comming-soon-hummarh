@@ -308,7 +308,12 @@ body.hostinger-ai-builder-elementor, body.hostinger-ai-builder-gutenberg {
         grid-row: 1;
         display: block;
         width: 182px;
+        height: auto;
         max-width: 100%;
+        visibility: visible;
+        opacity: 1;
+        justify-self: start;
+        align-self: end;
     }
 
     .hcs-bottom-row {
