@@ -27,4 +27,4 @@ Los administradores pueden seguir navegando el sitio normal mientras los visitan
 
 ## Preview
 
-Abre `index.html` en el navegador o publica el repositorio con GitHub Pages para ver la maqueta estatica.
+Abre `index.html` en el navegador.
